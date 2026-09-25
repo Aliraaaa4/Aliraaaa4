@@ -1,21 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:2563EB,100:00C9A7&amp;height=220&amp;section=header&amp;text=Alireza%20Mohammadi&amp;fontSize=52&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%7C%20Researcher%20%7C%20NLP%20and%20Retrieval%20Systems&amp;descAlignY=60&amp;descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,45:2563EB,100:00C9A7&amp;height=240&amp;section=header&amp;text=Alireza%20Mohammadi&amp;fontSize=54&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%26%20Researcher%20%7C%20NLP%20%7C%20Retrieval%20Systems%20%7C%20Trustworthy%20AI&amp;descAlignY=62&amp;descSize=18" />
 
 <br>
 
+<h3>
 Building reliable AI systems through research and engineering.
+</h3>
 
-</div>
+<br>
 
+<a href="https://www.linkedin.com/in/alirezamohammadiii/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+</a>
 
-<div align="center">
+&nbsp;&nbsp;
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alireza%20Mohammadi-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirezamohammadiii/)
+<a href="https://github.com/Aliraaaa4">
+<img src="https://img.shields.io/badge/GitHub-Aliraaaa4-00C9A7?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Aliraaaa4-00C9A7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aliraaaa4)
+&nbsp;&nbsp;
 
-[![Email](https://img.shields.io/badge/Email-alirezaa.mohammaadi%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alirezaa.mohammaadi@gmail.com)
+<a href="mailto:alirezaa.mohammaadi@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+</a>
+
+<br><br>
+
+📍 Tehran, Iran  
+<br>
+✉️ alirezaa.mohammaadi@gmail.com
 
 </div>
 
