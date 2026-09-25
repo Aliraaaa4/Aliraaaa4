@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Alireza%20Mohammadi&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Researcher%20%7C%20NLP%20%26%20Retrieval%20Systems&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0D1117&amp;height=220&amp;section=header&amp;text=Alireza%20Mohammadi&amp;fontSize=52&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%7C%20Researcher%20%7C%20NLP%20and%20Retrieval%20Systems&amp;descAlignY=60&amp;descSize=18" />
 
 </div>
 
@@ -24,7 +24,7 @@ Hi, I'm **Alireza Mohammadi**.
 
 I am an **AI Engineer & Researcher** and an M.Sc. Computer Engineering student at **Iran University of Science and Technology (IUST)**.
 
-I work at the intersection of **Machine Learning research and practical AI engineering**, focusing on building reliable and intelligent systems.
+I work at the intersection of **Machine Learning research and practical AI engineering**, focusing on building reliable and intelligent AI systems.
 
 My interests include:
 
@@ -183,7 +183,7 @@ Git • Linux
 - Founder and Secretary of the Artificial Intelligence Student Association at Arak University
 - Team Lead of Aurora Robotics Autonomous Vehicle Project
 - Organized AI seminars, workshops, and scientific activities
-- Collaborated with university technical communities
+- Collaborated with university technical communities and student organizations
 
 
 ---
@@ -199,7 +199,7 @@ Git • Linux
 
 # Beyond AI
 
-Outside engineering and research:
+Outside engineering and research, I enjoy:
 
 - 🏔️ Hiking
 - 📚 Reading non-fiction books
