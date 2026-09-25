@@ -115,18 +115,18 @@ Contributions:
 
 ### 🛡️ Trustworthy Machine Learning Experiments
 
-Research experiments focused on reliable machine learning.
+A collection of experiments exploring reliable machine learning through fairness, explainability, robustness, and generalization.
 
-Topics:
+Topics covered:
 
-- Explainable AI
-- Robustness evaluation
-- Fairness analysis
-- Adversarial attacks
-- Privacy-preserving ML
+- Fairness evaluation and bias mitigation
+- Cross-domain generalization
+- Explainable AI with SHAP
+- Adversarial robustness using FGSM and PGD
 
+Repository:
 
----
+https://github.com/Aliraaaa4/trustworthy-machine-learning-experiments
 
 ### 🚗 Aurora Robotics — Autonomous Vehicle Project
 
@@ -159,31 +159,43 @@ Worked on:
 
 ## Technical Stack
 
+<div align="center">
 
-### Programming
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,postgres,linux,git,github,vscode&perline=6" />
 
-Python • C++
+</div>
 
 
-### Machine Learning
+### AI & Machine Learning
 
-PyTorch • TensorFlow • Keras  
-Scikit-learn • Pandas • NumPy • OpenCV
+- Machine Learning
+- Deep Learning
+- PyTorch
+- TensorFlow / Keras
+- Scikit-learn
 
 
 ### NLP & Retrieval
 
-RAG • Embeddings • Semantic Search  
-Information Retrieval • Persian NLP
+- Natural Language Processing
+- Information Retrieval
+- Retrieval-Augmented Generation
+- Semantic Search
+- Embeddings
+- Persian NLP
 
 
 ### Engineering
 
-FastAPI • Docker • PostgreSQL  
-Git • Linux
+- FastAPI
+- Docker
+- PostgreSQL
+- Git
+- Linux
+- Jupyter Notebook
 
 
----
+
 
 ## Leadership & Community
 
