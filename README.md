@@ -1,13 +1,15 @@
 <div align="center">
 
-# Alireza Mohammadi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:00C9A7&height=220&section=header&text=Alireza%20Mohammadi&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%26%20Researcher%20%7C%20NLP%20%26%20Retrieval%20Systems&descAlignY=60&descSize=18"/>
 
-### AI Engineer & Researcher | NLP | Retrieval Systems | Trustworthy AI
+</div>
 
-Building reliable AI systems through research, engineering, and experimentation.
 
-[LinkedIn](https://www.linkedin.com/in/alirezamohammadiii/) •
-[Email](mailto:alireza.mohammadi@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alireza%20Mohammadi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alirezamohammadiii/)
+[![GitHub](https://img.shields.io/badge/GitHub-Aliraaaa4-181717?style=for-the-badge&logo=github)](https://github.com/Aliraaaa4)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:alirezaa.mohammaadi@gmail.com)
 
 </div>
 
@@ -18,21 +20,24 @@ Building reliable AI systems through research, engineering, and experimentation.
 
 Hi, I'm **Alireza Mohammadi**.
 
-I am an AI Engineer and M.Sc. Computer Engineering student at **Iran University of Science and Technology (IUST)**, working at the intersection of **Machine Learning research and practical AI systems**.
+I am an **AI Engineer & Researcher** and an M.Sc. Computer Engineering student at **Iran University of Science and Technology (IUST)**.
 
-My main interests include:
+My work focuses on building reliable AI systems at the intersection of **Machine Learning research and practical engineering**.
+
+My interests include:
 
 - 🔎 Natural Language Processing and Information Retrieval
-- 🧠 Retrieval-Augmented Generation and Semantic Search
+- 🧠 Retrieval Systems and Semantic Search
 - 🛡️ Trustworthy, Explainable, and Robust AI
 - 🤖 Computer Vision and Intelligent Systems
 
-I enjoy transforming research ideas into reliable and practical AI solutions.
+I enjoy transforming research ideas into practical and reproducible AI solutions.
 
 
 ---
 
 ## Current Roles
+
 
 ### 🤖 AI Engineer — NAJM
 
@@ -69,7 +74,8 @@ Highlights:
 - FastAPI-based REST interface
 - Trust-aware retrieval mechanisms
 
-🔗 Repository:
+Repository:
+
 https://github.com/Aliraaaa4/historical-persian-retrieval-system
 
 
@@ -79,10 +85,10 @@ https://github.com/Aliraaaa4/historical-persian-retrieval-system
 
 Contributor to a Time-Aware Retrieval-Augmented Generation system for Persian news.
 
-Contributions include:
+Contributions:
 
-- Retrieval pipeline components
-- Document ingestion modules
+- Document ingestion components
+- Retrieval pipeline development
 - Modular retriever architecture
 - Dialect-aware retrieval components
 
@@ -127,7 +133,7 @@ Worked on:
 - Explainable AI
 - Trustworthy Machine Learning
 - Computer Vision
-- Intelligent Systems
+- AI Systems Engineering
 
 
 ---
@@ -142,8 +148,8 @@ Python • C++
 
 ### Machine Learning & AI
 
-PyTorch • TensorFlow • Keras • Scikit-learn  
-Pandas • NumPy • OpenCV
+PyTorch • TensorFlow • Keras  
+Scikit-learn • Pandas • NumPy • OpenCV
 
 
 ### NLP & Retrieval
@@ -170,6 +176,15 @@ Git • Linux
 
 ---
 
+## Achievements
+
+- Recognized for contributions to university academic activities
+- Led student technical teams in AI and robotics projects
+- Developed and presented AI-focused educational and research activities
+
+
+---
+
 ## Beyond AI
 
 Outside of engineering and research, I enjoy:
@@ -183,12 +198,15 @@ Outside of engineering and research, I enjoy:
 
 ## Let's Connect
 
-I am interested in:
+Interested in:
 
 - AI Engineering opportunities
 - Machine Learning research collaborations
 - NLP and intelligent systems projects
 
 
-LinkedIn:
-https://www.linkedin.com/in/alirezamohammadiii/
+<div align="center">
+
+**Building reliable AI systems through research and engineering.**
+
+</div>
