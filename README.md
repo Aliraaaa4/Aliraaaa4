@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0D1117&amp;height=220&amp;section=header&amp;text=Alireza%20Mohammadi&amp;fontSize=52&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%7C%20Researcher%20%7C%20NLP%20and%20Retrieval%20Systems&amp;descAlignY=60&amp;descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:2563EB,100:00C9A7&amp;height=220&amp;section=header&amp;text=Alireza%20Mohammadi&amp;fontSize=52&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%7C%20Researcher%20%7C%20NLP%20and%20Retrieval%20Systems&amp;descAlignY=60&amp;descSize=18" />
+
+<br>
+
+Building reliable AI systems through research and engineering.
 
 </div>
 
@@ -11,14 +15,14 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Aliraaaa4-00C9A7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aliraaaa4)
 
-[![Email](https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alirezaa.mohammaadi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-alirezaa.mohammaadi%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alirezaa.mohammaadi@gmail.com)
 
 </div>
 
 
 ---
 
-# About Me
+## About Me
 
 Hi, I'm **Alireza Mohammadi**.
 
@@ -36,15 +40,15 @@ My interests include:
 
 ---
 
-# Current Roles
+## Current Roles
 
 
-## 🤖 AI Engineer — NAJM
+### 🤖 AI Engineer — NAJM
 
 Working on applied AI systems and intelligent solutions in an industry environment.
 
 
-## 🔬 Research Assistant — IUST Data Mining Laboratory
+### 🔬 Research Assistant — IUST Data Mining Laboratory
 
 **Iran University of Science and Technology**
 
@@ -59,7 +63,7 @@ Working on:
 
 ---
 
-# Current Focus
+## Current Focus
 
 Currently focusing on:
 
@@ -70,10 +74,10 @@ Currently focusing on:
 
 ---
 
-# Featured Projects
+## Featured Projects
 
 
-## 📚 Historical Persian Retrieval System
+### 📚 Historical Persian Retrieval System
 
 A source-grounded retrieval system for historical Persian and Islamic texts.
 
@@ -92,7 +96,7 @@ https://github.com/Aliraaaa4/historical-persian-retrieval-system
 
 ---
 
-## ⏳ ChronoRAG-Fa
+### ⏳ ChronoRAG-Fa
 
 Contributor to a Time-Aware Retrieval-Augmented Generation system for Persian news.
 
@@ -106,7 +110,7 @@ Contributions:
 
 ---
 
-## 🛡️ Trustworthy Machine Learning Experiments
+### 🛡️ Trustworthy Machine Learning Experiments
 
 Research experiments focused on reliable machine learning.
 
@@ -121,7 +125,7 @@ Topics:
 
 ---
 
-## 🚗 Aurora Robotics — Autonomous Vehicle Project
+### 🚗 Aurora Robotics — Autonomous Vehicle Project
 
 Team Lead of an autonomous vehicle project.
 
@@ -136,7 +140,7 @@ Worked on:
 
 ---
 
-# Research Interests
+## Research Interests
 
 - Natural Language Processing
 - Information Retrieval
@@ -150,7 +154,7 @@ Worked on:
 
 ---
 
-# Technical Stack
+## Technical Stack
 
 
 ### Programming
@@ -178,7 +182,7 @@ Git • Linux
 
 ---
 
-# Leadership & Community
+## Leadership & Community
 
 - Founder and Secretary of the Artificial Intelligence Student Association at Arak University
 - Team Lead of Aurora Robotics Autonomous Vehicle Project
@@ -188,7 +192,7 @@ Git • Linux
 
 ---
 
-# Achievements
+## Achievements
 
 - Recognized for contributions to university academic activities
 - Led student technical teams in AI and robotics projects
@@ -197,7 +201,7 @@ Git • Linux
 
 ---
 
-# Beyond AI
+## Beyond AI
 
 Outside engineering and research, I enjoy:
 
