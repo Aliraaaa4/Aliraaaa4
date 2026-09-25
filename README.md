@@ -110,6 +110,9 @@ Contributions:
 - Modular retriever architecture
 - Dialect-aware retrieval components
 
+Repository:
+
+https://github.com/Sinac0de/ChronoRAG-Fa.git
 
 ---
 
