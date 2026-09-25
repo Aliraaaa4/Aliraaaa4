@@ -11,13 +11,7 @@ Building reliable AI systems through research and engineering.
 <br>
 
 <a href="https://www.linkedin.com/in/alirezamohammadiii/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/Aliraaaa4">
-<img src="https://img.shields.io/badge/GitHub-Aliraaaa4-00C9A7?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Alireza%20Mohammadi-2563EB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 
 &nbsp;&nbsp;
@@ -25,12 +19,6 @@ Building reliable AI systems through research and engineering.
 <a href="mailto:alirezaa.mohammaadi@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
-
-<br><br>
-
-📍 Tehran, Iran  
-<br>
-✉️ alirezaa.mohammaadi@gmail.com
 
 </div>
 
