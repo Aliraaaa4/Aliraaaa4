@@ -1,54 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:00C9A7&height=220&section=header&text=Alireza%20Mohammadi&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%26%20Researcher%20%7C%20NLP%20%26%20Retrieval%20Systems&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Alireza%20Mohammadi&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Researcher%20%7C%20NLP%20%26%20Retrieval%20Systems&descAlignY=60&descSize=18" />
 
 </div>
 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alireza%20Mohammadi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alirezamohammadiii/)
-[![GitHub](https://img.shields.io/badge/GitHub-Aliraaaa4-181717?style=for-the-badge&logo=github)](https://github.com/Aliraaaa4)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:alirezaa.mohammaadi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alireza%20Mohammadi-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirezamohammadiii/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Aliraaaa4-00C9A7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aliraaaa4)
+
+[![Email](https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alirezaa.mohammaadi@gmail.com)
 
 </div>
 
 
 ---
 
-## About Me
+# About Me
 
 Hi, I'm **Alireza Mohammadi**.
 
 I am an **AI Engineer & Researcher** and an M.Sc. Computer Engineering student at **Iran University of Science and Technology (IUST)**.
 
-My work focuses on building reliable AI systems at the intersection of **Machine Learning research and practical engineering**.
+I work at the intersection of **Machine Learning research and practical AI engineering**, focusing on building reliable and intelligent systems.
 
 My interests include:
 
 - 🔎 Natural Language Processing and Information Retrieval
-- 🧠 Retrieval Systems and Semantic Search
+- 🧠 Retrieval Systems, Semantic Search, and RAG
 - 🛡️ Trustworthy, Explainable, and Robust AI
 - 🤖 Computer Vision and Intelligent Systems
-
-I enjoy transforming research ideas into practical and reproducible AI solutions.
 
 
 ---
 
-## Current Roles
+# Current Roles
 
 
-### 🤖 AI Engineer — NAJM
+## 🤖 AI Engineer — NAJM
 
 Working on applied AI systems and intelligent solutions in an industry environment.
 
 
-### 🔬 Research Assistant — IUST Data Mining Laboratory
+## 🔬 Research Assistant — IUST Data Mining Laboratory
 
 **Iran University of Science and Technology**
 
-Research interests:
+Working on:
 
 - Machine Learning
 - Natural Language Processing
@@ -59,10 +59,21 @@ Research interests:
 
 ---
 
-## Featured Projects
+# Current Focus
+
+Currently focusing on:
+
+- Building NLP and retrieval-based AI systems
+- Developing reliable machine learning pipelines
+- Researching trustworthy and explainable AI
 
 
-### 📚 Historical Persian Retrieval System
+---
+
+# Featured Projects
+
+
+## 📚 Historical Persian Retrieval System
 
 A source-grounded retrieval system for historical Persian and Islamic texts.
 
@@ -81,7 +92,7 @@ https://github.com/Aliraaaa4/historical-persian-retrieval-system
 
 ---
 
-### ⏳ ChronoRAG-Fa
+## ⏳ ChronoRAG-Fa
 
 Contributor to a Time-Aware Retrieval-Augmented Generation system for Persian news.
 
@@ -95,36 +106,37 @@ Contributions:
 
 ---
 
-### 🛡️ Trustworthy Machine Learning Experiments
+## 🛡️ Trustworthy Machine Learning Experiments
 
 Research experiments focused on reliable machine learning.
 
 Topics:
 
 - Explainable AI
-- Model robustness
-- Fairness evaluation
+- Robustness evaluation
+- Fairness analysis
 - Adversarial attacks
 - Privacy-preserving ML
 
 
 ---
 
-### 🚗 Aurora Robotics — Autonomous Vehicle Project
+## 🚗 Aurora Robotics — Autonomous Vehicle Project
 
 Team Lead of an autonomous vehicle project.
 
 Worked on:
 
 - Computer vision pipeline development
-- Lane and obstacle detection
+- Lane detection
+- Obstacle detection
 - Intelligent robotic systems
 - Technical team coordination
 
 
 ---
 
-## Research Interests
+# Research Interests
 
 - Natural Language Processing
 - Information Retrieval
@@ -138,7 +150,7 @@ Worked on:
 
 ---
 
-## Technical Stack
+# Technical Stack
 
 
 ### Programming
@@ -146,7 +158,7 @@ Worked on:
 Python • C++
 
 
-### Machine Learning & AI
+### Machine Learning
 
 PyTorch • TensorFlow • Keras  
 Scikit-learn • Pandas • NumPy • OpenCV
@@ -166,28 +178,28 @@ Git • Linux
 
 ---
 
-## Leadership & Community
+# Leadership & Community
 
 - Founder and Secretary of the Artificial Intelligence Student Association at Arak University
 - Team Lead of Aurora Robotics Autonomous Vehicle Project
 - Organized AI seminars, workshops, and scientific activities
-- Collaborated with university technical communities and student organizations
+- Collaborated with university technical communities
 
 
 ---
 
-## Achievements
+# Achievements
 
 - Recognized for contributions to university academic activities
 - Led student technical teams in AI and robotics projects
-- Developed and presented AI-focused educational and research activities
+- Developed AI-focused educational and research activities
 
 
 ---
 
-## Beyond AI
+# Beyond AI
 
-Outside of engineering and research, I enjoy:
+Outside engineering and research:
 
 - 🏔️ Hiking
 - 📚 Reading non-fiction books
@@ -196,17 +208,8 @@ Outside of engineering and research, I enjoy:
 
 ---
 
-## Let's Connect
-
-Interested in:
-
-- AI Engineering opportunities
-- Machine Learning research collaborations
-- NLP and intelligent systems projects
-
-
 <div align="center">
 
-**Building reliable AI systems through research and engineering.**
+### Building reliable AI systems through research and engineering.
 
 </div>
