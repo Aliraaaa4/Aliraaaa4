@@ -128,19 +128,6 @@ Repository:
 
 https://github.com/Aliraaaa4/trustworthy-machine-learning-experiments
 
-### 🚗 Aurora Robotics — Autonomous Vehicle Project
-
-Team Lead of an autonomous vehicle project.
-
-Worked on:
-
-- Computer vision pipeline development
-- Lane detection
-- Obstacle detection
-- Intelligent robotic systems
-- Technical team coordination
-
-
 ---
 
 ## Research Interests
